@@ -1,5 +1,5 @@
-#ifndef RBBST_H
-#define RBBST_H
+#ifndef AVLBST_H
+#define AVLBST_H
 
 #include <iostream>
 #include <exception>
